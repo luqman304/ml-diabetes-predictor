@@ -18,5 +18,4 @@ This app uses a machine learning model to predict the likelihood of a person hav
    ```
    streamlit run app.py
    ```
-
-Dataset used: [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+Dataset used: [Pima Indians Diabetes Database]
